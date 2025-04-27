@@ -70,17 +70,17 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
-      "value": "",
+      "value": "Felix Tanza",
       "required": true 
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254705195336",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,💚,💚,💚",
       "required": false 
     },
     "AUTO_REACT": {
@@ -95,7 +95,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Dr.Felix Tanza Otieno",
       "required": false
     },
     "SESSION_ID": {
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "1",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
@@ -120,7 +120,7 @@
     },
    "ANTIDELETE_RECOVER_CONVENTION": {
       "description": "Enable anti-delete deleted to recover in conversation (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },	  
     "GROUPANTILINK": {
@@ -135,12 +135,12 @@
     },
     "WELCOME_MESSAGE": {
       "description": "Enable welcoming message in groups (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "GOODBYE_MESSAGE": {
       "description": "Enable  goodbye in groups (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "AUDIO_CHATBOT": {
