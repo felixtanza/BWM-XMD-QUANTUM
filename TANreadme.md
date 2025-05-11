@@ -75,4 +75,3 @@ javascriptfunction performAction() {
 }
 
 
-Let me know if you want to add more features like animations or saving data.
