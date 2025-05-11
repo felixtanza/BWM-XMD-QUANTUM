@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+BWM+XMD+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Ibrahim+Adams;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+BWM+XMD+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Felix+Tanza;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://railway.app?referralCode=AqkNn4">
-    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
+    <img title="DEPLOY ON RAILWAY by Felix Tanza Otieno" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+BWM+XMD+Quantum+Edition+by+Ibrahim+Adams;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+BWM+XMD+Quantum+Edition+by+Dr+Felix+Tanza+Otieno;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
 <p align="center">
