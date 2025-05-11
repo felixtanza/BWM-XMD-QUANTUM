@@ -28,7 +28,7 @@
 
 
 
-
+<style>
 body {
   font-family: Arial, sans-serif;
   background-color: #f5f5f5;
@@ -65,13 +65,14 @@ button:hover {
   font-size: 18px;
   color: #2a9d8f;
 }
+</style>
 
-
-
+<script>
 
 javascriptfunction performAction() {
   const result = document.getElementById("action-result");
   result.textContent = "✅ Action completed successfully!";
 }
+</script>
 
 
