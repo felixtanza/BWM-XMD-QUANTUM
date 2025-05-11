@@ -9,7 +9,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Action Section</title>
+  <title>Read Here 🇰🇪🏘️🎁❤️</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -20,7 +20,7 @@
     <div id="action-result"></div>
   </section>
 
-  <script src="script.js"></script>
+  
 </body>
 </html>
 
